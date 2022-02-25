@@ -1,0 +1,198 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Parallel between Episcopacy &amp; Presbytery, or, The Church of England vindicated from all the false and uncharitable reports and suggestions of either papist or Presbyterian</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55778</idno>
+            <idno type="STC">Wing P334</idno>
+            <idno type="STC">ESTC R28149</idno>
+            <idno type="EEBO-CITATION">10433013</idno>
+            <idno type="OCLC">ocm 10433013</idno>
+            <idno type="VID">45015</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55778)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45015)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1388:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Parallel between Episcopacy &amp; Presbytery, or, The Church of England vindicated from all the false and uncharitable reports and suggestions of either papist or Presbyterian</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>At end: Perused May 29, 1680.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Apologetic works.</term>
+               <term>Presbyterianism.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:45015:1"/>
+            <pb n="1" facs="tcp:45015:1" rendition="simple:additions"/>
+            <head>A PARALLEL BETWEEN <hi>Epiſcopacy</hi> &amp; <hi>Presbytery</hi> OR The <hi>Church of England</hi> Vindicated from all the Falſe and Uncharitable Reports and Suggeſtions of either <hi>Papiſt</hi> or <hi>Presbyterian.</hi>
+            </head>
+            <epigraph>
+               <q>Utrum horum mavis accipe.</q>
+            </epigraph>
+            <p>MANY have been, and in Various Diſguiſes appeared the Enemies to the Peace of the Church of <hi>England;</hi> but thoſe that have prevailed moſt with the people againſt her, and ſtuck cloſeſt upon her Skirts, are and have been <hi>Popery</hi> and <hi>Presbytery. Dextrum Scylla latus, Laevum implacata Charybdis obſidet</hi> — Some have been withdrawn from her Communion by the fair and inſinuating Speeches of the Romiſh Prieſts; others frighten'd from it by the Uncharitable Cenſurings, and Bold Threatnings of the <hi>Pres<g ref="char:EOLhyphen"/>byterian</hi> Miniſters; ſome offended with the Rude and Unmannerly Diſcipline of <hi>Presbytery</hi> (where the pulling off a Hat: or ſhowing any other outward form of adoration is the higheſt Symptom of being ill affected) have fell into the <hi>Romiſh</hi> Superſtition, others diſpleaſed with the gew-gaw Religion and Pageantry of the Church of <hi>Rome</hi> have thought no outward Honour and Magnificence fit to be allowed in the Temple of Chriſt, and conſequently became rigid <hi>Presbyterians;</hi> again you have many running ſo far from the <hi>Papiſts</hi> meritorious hope of gain<g ref="char:EOLhyphen"/>ing Heaven by good works, that they expect in haſt to Poſt thither by a Barren Faith; argu<g ref="char:EOLhyphen"/>ing, nay eſteeming good works as altogether unneceſſary; when as indeed they muſt be both Concomitants; and though ſhe daily gave particular cautions againſt theſe Seducers, and ſet down deſcriptions and marks how they might be known, —<hi>Nimirum haec illa Charybdis: Hos Helenus Scopulos, haec ſaxa horrenda canebat:</hi> yet they never could prove ſufficiently effectual to the ſecuring of all, through the inadvertency of many, though the Charmer charmed never ſo wiſely.</p>
+            <p>I ſhall in this preſent Diſcourſe decline mentioning the dangers and great inconveniences that ariſe from Popery to this State, as having been the Subject of theſe two years laſt paſt, and our fears ſufficiently ſecured by the incomparable wiſdom of his Majeſty, and the extraor<g ref="char:EOLhyphen"/>dinary carefulneſs of his Great Council the Parliament, and only confine it to the latter, be<g ref="char:EOLhyphen"/>ing perhaps equally dangerous with the former.</p>
+            <p n="1">1. As being a Chronical Diſtemper, (bred at firſt in the Body of this State, by an impru<g ref="char:EOLhyphen"/>dent and overforward zeal, and ſince encreaſed and grown ſtubborn through length of time) which ſeldom ends but in the death of the Patient. For when a Diſeaſe is grown habitual and cuſtomary, the application of fit remedies is commonly neglected till the Body's paſt hopes of recovery; as is evident from the year 40; where the beſt State-Remedies being too late ad<g ref="char:EOLhyphen"/>miniſtred, proved uſeleſs and ineffectual.</p>
+            <p n="2">2. That <hi>Presbytery</hi> was calculated for the Meridian of a Commonwealth, not of Monar<g ref="char:EOLhyphen"/>chy; (as appears by the confeſſion of its firſt Erectors) and therefore contrary to the con<g ref="char:EOLhyphen"/>ſtitutions of this Kingdom.</p>
+            <p n="3">3. That by Democratical Principles in Religion, is viſibly ſeen what ſort of Government they aim at in the State; Democracy never being admitted in this Nation, but when the Church was purely <hi>Presbyterian.</hi>
+            </p>
+            <p n="4">4. That knowing how odious Popery is to above the tenth part of this Nation, and that the People would conſent to the introduction of any Religion, rather than that; they ſliely give out upon all occaſions, that the Church of <hi>England</hi> is not ſufficiently purg'd from the vanities of <hi>Rome,</hi> that moſt of the Clergy are <hi>Popiſhly</hi> affected, <hi>and ſtill hanker after the Fleſh-pots of Egypt,</hi> uncharitably imputing the infirmities and failings of a few Members, to the whole Bo<g ref="char:EOLhyphen"/>dy, to the great diſencouragement and Abuſe of many of the waker ſort of his Majeſties good Subjects.</p>
+            <p n="5">5. That They the Godly, pains-taking, and true preaching Miniſters are prohibited the exerciſe of holy du<g ref="char:EOLhyphen"/>ties: (though the ſevereſt Laws were never able totally to ſilence them) when by juſt ſuſpenſions they were pre<g ref="char:EOLhyphen"/>vented from ſowing the Seeds of Sedition and Schiſm; that they by impriſonments and other oppreſſions, are hindred from diſpenſing the Goſpel of Chriſt; when they are deſervedly ſuppreſt for infuſing into the people a diſ<g ref="char:EOLhyphen"/>loyal Spirit of Treaſon and Rebellion againſt the King's Majeſty his Heirs and Succeſſors. By theſe means they at firſt move compaſſion in the unwary and ignorant: from which by degrees follows an opinion of their Sanctity, Innocence and undeſerved puniſhment, to that blaſting and undervaluing of his Maieſties Privy-Councellors, and conſequently to the raiſing in the people an averſion and diſtaſte to his Government.</p>
+            <p n="6">6. That if any of them upon ſome ſpecial occaſion, are obliged to give an account of themſelves to the world, they cunningly ſtyle themſelves Sons of the Church of <hi>England;</hi> when all the week long they may be found rai<g ref="char:EOLhyphen"/>ling againſt the times, and the Clergy, in a Coffee-Houſe, and ſeen in a Conventide every Sunday.</p>
+            <p n="7">
+               <pb n="2" facs="tcp:45015:2" rendition="simple:additions"/> 7. That upon groundleſs fears and jealouſies, they are continually amuſing the people, and crying cut upon e<g ref="char:EOLhyphen"/>vil Councellors too near the King, Arbitrary power, Diſſolution, nay fear of an utter abrogation of Parlia<g ref="char:EOLhyphen"/>ments, violation of privileges, when the truth is, that privilege like I harach's lean Kine has almoſt devoured the Prerogative; it being made (by ſeveral gracious condeſcenſions and grants, to ſatisfie the People and ſecure their ſears and jealouſies) ſo thin and weak, that 'tis ſcarce able to protect its own Dignity, the Kingdoms Honour, the Subjects Liberty, and the Safety we all have in the Eſtabliſhed Laws of this Land.</p>
+            <p n="8">8, That no Town-fidler is more watchful after the ſearch of a Wedding, than formerly the Presbyterians were of a Plot never giving over the Hunt, till they had made ſomething of it; and by chance in their way they lighted upon a ſuſpicious perſon that could give no great account of himſelf with a full Cry away they run to one of their own <hi>Quorum:</hi> then the Reverend <hi>Jeſuitognoſtes</hi> is ſent for, who with ſome Ceremony turning the Party to the Light, and diſengaging his Head from his Perriwig, immediately with amazement in his face, and the whites of his Eyes turned up devoutly, cryes out a Lewd Impoſtor! a Jeſuit! whether by ſmelling, inſpection or by vertue of the old Proverb, <hi>ever ſet a Knave to catch a Knave,</hi> I know not: their party in the mean time giving out in what immi<g ref="char:EOLhyphen"/>nent dangers this poor Nation had been in, but for this happy diſcovery, magnifying the little impertinent ſervi<g ref="char:EOLhyphen"/>ces of theſe their overbuſie Patriots, <hi>viz.</hi> had it not been for the wonderful care and diligence of Sr. <hi>W.</hi> do you call him Neighbour, we had all been burnt in our Beds, our Religion changed, and the Government ſubverted; never mentioning the indefatigable pains of his Majeſty and his Council, (unleſs with jealouſies and ſuſpicions) as if they fate at <hi>Whitehall</hi> in their <hi>Pontificalibus</hi> like the <hi>Roman</hi> Senators at the <hi>Gauliſh</hi> Invaſion, not hindering, but patiently expecting when their Throats ſhould be cut, as if nothing but the babling noiſe, and watchfulneſs of theſe Presbyterian Geeſe could have preſerved our Capitol, making the people believe and underſtand how zealous and tender they always were of the Kings Honour, Religion, Laws and Liberties of the Subject; and that he in the mean time, poor Gentleman, was careleſs even of his own preſervation.</p>
+            <p>By theſe and ſuch like Tricks and Artifices they ruin'd this flouriſhing Monarchy; and by ſuch ſigns and Symp<g ref="char:EOLhyphen"/>toms as theſe, (if we would prevent a relapſe) we may gueſs at the return of this fatal Diſtemper, from which <hi>Good Lord deliver us.</hi>
+            </p>
+            <p>Now that our deceived Country-men may ſee how they have been abuſed into a belief of enjoying I know not what happineſs, under the Term of Reformation in Church, generally called Presbytery</p>
+            <p>I have here inſerted a ſhort Parallel of both Governments, taken out of the Writings of a learned and conſci<g ref="char:EOLhyphen"/>entious Divine of this Nation.</p>
+            <p>
+               <table>
+                  <head>The Parallel of Epiſcopacy and Presbytery.</head>
+                  <row>
+                     <cell>Epiſcopacy in it ſelf conſidered, is a Prela<g ref="char:EOLhyphen"/>cy or Superiority of one above all the Presby<g ref="char:EOLhyphen"/>ters within ſuch a Precinct or Dioceſs, which one is apointed to have care of all the Chur<g ref="char:EOLhyphen"/>ches within that compaſs, and furniſhed with power and authority for ordination and ju<g ref="char:EOLhyphen"/>riſdiction, (that authority not being arbitra<g ref="char:EOLhyphen"/>ry but bounded by Laws, and adminiſtred or exerciſed with advice and aſſiſtance of certain choiſe Presbyters) to the intent that all Chur<g ref="char:EOLhyphen"/>ches or Congregations under him may be pro<g ref="char:EOLhyphen"/>vided of able Paſtors, and that both theſe inferiour Paſtors and People may perform the duties required of them.</cell>
+                     <cell>
+                        <hi>Presbytery is ſuch a form of Church-Govern<g ref="char:EOLhyphen"/>ment, as is adminiſtred by Preaching, and Lay-Elders joyntly, with equal voice and power in the ſeveral judicatures of their Parochial Seſſions, of their Claſſical or greater Conſiſtories, of their Provincial Synods, and National Aſſemblies.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>1. Under Epiſcopal, there is in every Pariſh a preaching Miniſter, with Church-Wardens, and in ſome, Deacons or Curates; by theſe, Of<g ref="char:EOLhyphen"/>fenders are noted and admoniſhed, and the offences preſented to the Eccleſiaſtical Courts or Conſiſtories, where they may be heard and cenſured, the Miniſter having power in ſome caſes of notorious ſcandal to reſtrain from the communion, until the offence may be heard and judged in the Court, and the party ſo offen<g ref="char:EOLhyphen"/>ding by the cenſure of the Church brought to give publick ſatisfaction.</cell>
+                     <cell>
+                        <hi>
+                           <g ref="char:V">Ʋ</g>nder the Presbyterian Government, there is in every Pariſh a Miniſter, with a Competent Number of Lay-Elders and Deacons, according to the largeneſs of the Pariſh: theſe make the Pa<g ref="char:EOLhyphen"/>rochial Seſſion, and have power to cenſure ſcanda<g ref="char:EOLhyphen"/>lous Livers, Contentious Perſons, and the like, to enjoyn publick penance, and impoſe upon the pe<g ref="char:EOLhyphen"/>nitent, before he be received into the Church, a Fine to be employed on pious <g ref="char:V">Ʋ</g>ſes.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>2. Under Epiſcopal, in every Dioceſs, there are ſeveral Diviſions, the leſſer and the great<g ref="char:EOLhyphen"/>er, theſe being called Deanaries, thoſe Arch-Deaconries; in thoſe the Arch-Presbyters, in theſe the Arch-Deacons have power to call the Parochial Miniſters together to enquire of Do<g ref="char:EOLhyphen"/>ctrine and manners, and ſee to the redreſſing of ſmaller Abuſes. In the Mother-City is the Biſhop's Reſiding with his Presbyters, having the power of ordination, of judging and de<g ref="char:EOLhyphen"/>termining of all matter of Doctrine or Scan<g ref="char:EOLhyphen"/>dal reſerved to his Hearing by his Arch-Dea<g ref="char:EOLhyphen"/>cons, and of rejudging what was judg'd amiſs by them. This he doth either in his Conſiſtory, which he holdeth in his City, aſſiſted by his Presbyters, or in his Viſitations going through his Dioceſs, and cauſing his Clergy perſonally to appear; or in his Dioceſan Synod, which is made up of the City-Presbyters, Dean and Chap<g ref="char:EOLhyphen"/>ter, the Arch-Deacons, and other choiſe Pres<g ref="char:EOLhyphen"/>byters under the Preſidency of the Biſhop.</cell>
+                     <cell>
+                        <hi>
+                           <g ref="char:V">Ʋ</g>nder the Presbyterian in every County, there are alſo ſeveral Diviſions or Claſſes, containing ſuch a Number of Parochial Miniſters, who have their ſet Meetings for conference, and in the Ci<g ref="char:EOLhyphen"/>ty or more eminent Town, is the great Presbyte<g ref="char:EOLhyphen"/>rian Conſiſtory, commonly called the Presbyte<g ref="char:EOLhyphen"/>ry, made up of all the Parochial Miniſters with<g ref="char:EOLhyphen"/>in its Precincts; and of Lay-Elders from each Pariſh one; in this is the power of Ordination, of cenſuring Crimes of the higher ſtrain, with the greater Excommunication; of hearing Appeals from the Parochial Seſſions, and rejudging what was there judged amiſs.</hi>
+                     </cell>
+                  </row>
+                  <pb n="3" facs="tcp:45015:2"/>
+                  <row>
+                     <cell>3. Under Epiſcopal Government are held Provincial Synods, conſiſting of all the Biſhops, Deans, Arch-Deacons, and of certain choiſe Presbyters from every Dioceſs within the Pro<g ref="char:EOLhyphen"/>vince. Theſe have power to order all matters concerning the whole Province, to hear appeals from every Dioceſs, to rejudge what was done amiſs, that could not be well determined in a Dioceſan Synod.</cell>
+                     <cell>
+                        <hi>
+                           <g ref="char:V">Ʋ</g>nder the Presbyterian alſo are held Provin<g ref="char:EOLhyphen"/>cial Synods, made up of Commiſſioners, that is, certain preaching, and Lay-Elders from every in<g ref="char:EOLhyphen"/>dividual Presbytery, or Presbyterian Conſiſtory, within the Province: Theſe judge and determine matters pertaining to the whole Province: alſo difficult Caſes that could not well be determined within the Presbytery; They receive Appeals alſo from the Presbyters, and examine what was there thought to be done amiſs.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>4. Under Epiſcopal Government are alſo held National Councils, conſiſting of the like Members as do the Provincial, theſe are of great Authority; they examine and judge any thing done amiſs in any Province; they conſider and determine matters of Doctrine and Diſcipline in order to the whole National Church.</cell>
+                     <cell>
+                        <hi>
+                           <g ref="char:V">Ʋ</g>nder the Presbyterian likewiſe, are held Na<g ref="char:EOLhyphen"/>tional Aſſemblies, conſiſting of Commiſſioners from all the Presbytery in the Kingdom, each of them ſending two preaching, and one Lay-Elder; alſo from every Burrough one, and he a Lay-Man; and from every <g ref="char:V">Ʋ</g>niverſity one, and for the moſt part a Lay-Man too: In theſe is the Supream and Final Determination of all complaints and contro<g ref="char:EOLhyphen"/>verſies, and unto the Decrees that iſſue thence, all muſt obey under pain of Excommunication.</hi>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <p>Now by this you may perceive that they both agree <hi>in ipſo Regimine Eccleſiaſtico,</hi> In the Go<g ref="char:EOLhyphen"/>vernment it ſelf, conſidered as it referreth to the Church, that is, all Members therein that are to be governed, though not in the manner, number or qualification of the Perſons go<g ref="char:EOLhyphen"/>verning; both parties confeſſing, that the power of Ordination and of Judicature (ſo far forth as the Keys left by Chriſt in his Church do extend) is of divine inſtitution, and that this power muſt be exerciſed or adminiſtred in his Church by ſome; ſo that I ſay the difference is, whether the exerciſe or miniſtration of that power be reſtrained to certain choiſe Men, or indifferently left to all <hi>Presbyters,</hi> and all their aſſiſting <hi>Lay-Elders.</hi>
+            </p>
+            <p>Therefore the next queſtion will be, Which of theſe two Governments have the more effe<g ref="char:EOLhyphen"/>ctual means to procure the end of Church-Government, the Preſervation of Truth and Peace, and the ſuppreſſion of Hereſie and Schiſm. I anſwer Epiſcopal; for 'tis ſtrange, That <hi>Lay-men,</hi> from whoſe Education no Knowledge beyond their Trades and ſuch like Affairs can be expected, ſhould be as fit Inſtruments for ſuch kind of Employments, as Grave and Learned Scholars, whoſe only Buſineſs, is, to tread the Path of all Arts, both Humane and Divine. So that theſe <hi>Lay-men</hi> will be lookt upon in the <hi>Presbytery,</hi> but as ſo many Cy<g ref="char:EOLhyphen"/>phers, <hi>Quorum potius numerantur ſuffragia quam argumenta ponderantur,</hi> as was once ſaid of the Papal Conſiſtory.</p>
+            <p>Again, Biſhops aſſume not the exerciſe of any power within any Prince's Dominions, or uſe it over his Subjects, but by permiſſion and authority from him, and that according to juſt Laws and Rules made by Sovereign Authority for the manner of external Miniſtration thereof. So that when the Epiſcopal Power cometh to the holding of Courts, and calling Aſſemblies, it wholly depends upon the Sovereign Power; without whoſe aſſent ſignified by his Writ, they cannot Aſſemble for the making of Canons and Conſtitutions, nor publiſh and put in uſe any of them being made.</p>
+            <p>But <hi>Presbyterians</hi> take upon them to ſet up their Diſcipline in any Kingdom, (therein agree<g ref="char:EOLhyphen"/>ing with the <hi>Jeſuit</hi>) maugre all oppoſition: It is true, for external Peace ſake, they hold it fit to crave leave firſt, and beg the aſſiſtance of the Civil Power, but if denied, will proceed without it, Aſſembling together, and making their own Laws without Regulations from the Civil Power; for the manner and form of exerciſing their Diſcipline, allowing only the Prince <hi>Poteſtatem Cumulativam</hi> (as they ſpeak) a power to add more ſtrength and vigour, not <hi>privati<g ref="char:EOLhyphen"/>vam</hi> to interpoſe or hinder their Aſſemblies or Decrees. But with their good leave all the <hi>Presbyterian</hi> Divines in <hi>England</hi> cannot juſtifie (unleſs at the beginning ſome extraordinary Mi<g ref="char:EOLhyphen"/>racle had been ſhewn from Heaven in favour and confirmation of their Religion, the making any Prince's Subjects Proſelytes, without the leave and conſent of their Prince, much leſs the ſetling it in a Chriſtian Commonwealth, to the utter abrogation of a Religion pure, and agreeable to the word of God, by force of Arms, and effuſion of Chriſtian Blood; contrary to the true ſenſe and meaning of the Goſpel of Peace.</p>
+            <p>Now, that Epiſcopacy is of Apoſtolical Inſtitution, is a Truth that hath been made good in all Ages.</p>
+            <p>That for 1500 years continuance of Chriſtianity, there is no example of the Church governed otherwiſe. An Argument ſufficient to ſuſpect Novelties in oppoſition unto it.</p>
+            <p>That it hath been approved of by moſt of the Proteſtant-Divines beyond Seas, who are rather induced by neceſſity to the practice of <hi>Presbytery,</hi> (there wanting means to maintain, or abilities lawfully to compaſs Epiſcopal Government) than wills and deſires to enjoy the ſame. Advantages <hi>Presbytery</hi> cannot pretend to. Indeed <hi>Presbytery</hi> gave out at firſt, that their perſwaſion came the neareſt to the word of God; that they were oppreſt for profeſſing Chriſt purely; that the Church of <hi>England,</hi> like a Tall Cedar by continual droppings prejudiced and kept back the growth of this under-Shrub, that they only humbly deſired a free Toleration of their Religion from the Civil Magiſtrate, <hi>&amp;c.</hi> which made a great many good and well-meaning Men not only neglect and connive at, but even cheriſh and think well of it; till having
+<pb n="4" facs="tcp:45015:3"/>by its own ſubtilty and ſimplicity of others, contracted ſufficient warmth and power; <hi>It, like the Countrymans Snake, began to rear its head and hiſs, diſputing poſſeſſion with the Landlord, even to the danger of his Life;</hi> for the diſpute between his Majeſty of Ever Bleſſed Memory and the Two Houſes, was not which Government came neareſt to the word of God? but <hi>Quis Regnabit?</hi> where the Supream Power in Cauſes Eccleſiaſtical and Civil, ſhall practically remain for the future, either in Prince or People: for though his late Majeſty yielded to the ſettling of the <hi>Presbyterian</hi> Government for three years in a Legal manner, as flowing from the power of the Crown: yet this will not ſatisfie, they would have <hi>totaliter totum,</hi> Crown and all, or elſe the Sword ſhould decide it.</p>
+            <p>Now I would fain ask any reaſonable Man, How they could be ſo ſeverely dealt with, and oppreſt by the Church of <hi>England,</hi> as they would have the people believe; if in the ſpace of leſs than fourſcore years (ſurely, <hi>Ill Weeds grow apace</hi>) this little party could be able to ruine ſo flouriſhing a Kingdom? When was it that they had not publick Meeting-Houſes in this Kingdom? were the ſevereſt of our Laws ſince or before the King came in, ever able to hinder them from a free exerciſe of their Religion?</p>
+            <p>And what was the Fruits of their Bleſſed Reformation, a Term the people has been ſo much abuſed and cheated with, when the <hi>Presbyterian</hi> Government was practiſed in oppoſition to the Epiſcopal; but pulling down of May-poles, deſtruction of ſenſeleſs Croſſes, Reformation of Tavern-Signs by fantaſtical Cringers pictured inſtead of Angels, breaking ignorant paint<g ref="char:EOLhyphen"/>ed Glaſs windows, removing the Communion Table, Locally changing the Font, laying a<g ref="char:EOLhyphen"/>ſide Surplices, and uſing Cloaks (ſo that the <hi>Presbyter</hi> himſelf was in habit a <hi>Lay-Elder</hi>) in<g ref="char:EOLhyphen"/>troducing a Directory inſtead of the Common Prayer, and a Catechiſm, the Iſſue of ſix years labour, which ever ſince King <hi>Edward</hi> the ſixth's daies, you might have furniſhed your ſelves with in a ſmaller print, and at an eaſier rate, diſentituling St. <hi>Paul</hi> and St. <hi>Peter;</hi> (whether out of familiarity, <hi>or that a Live Dog is better than a Dead Lyon</hi>) to cry up the Saints fo St. <hi>Antholins</hi> and <hi>Aldermanbury:</hi> and laſtly intermixing <hi>Lay-men</hi> with the <hi>Clergy</hi> for managing fo Ec<g ref="char:EOLhyphen"/>cleſiaſtical Affairs; theſe were the moſt material alterations: Now can any Man imagine, that ſuch Toys and Indifferences as theſe, could provoke Men to deſire a change in Government by an unnatural War? were theſe things ſufficient grounds for a thorough Reformation in church and State? were they ſubſtantial enough to counterpoiſe Hypocriſie, Perjury, Op<g ref="char:EOLhyphen"/>preſſion and Blood?</p>
+            <p>But 'tis objected, (and has been a great inducement to ſome well-meaning Men, to think well of their Government) that they are zealous ſupporters of the Peoples Liberties, and ſuppreſſors of wicked actions, as Swearing, Drinking, Breaking of the Sabbath, <hi>&amp;c.</hi>
+            </p>
+            <p>To which I anſwer in general, That nothing can be more deſired, either for the ſuppreſ<g ref="char:EOLhyphen"/>ſing or puniſhing of all ſinful Words, Deeds, and viciouſly guilty perſons, or conducing to the Liberty of the Subject, than what was eſtabliſhed and confirmed by Act of Parliament, be<g ref="char:EOLhyphen"/>fore ever they expoſed their Grand Remonſtrance, of <hi>Dec.</hi> 1641 to the view of the world. Beſides, it allarming the Nation at firſt, upon idle grounds, with fear of Court-Endeavours to impair their privileges, when no ſuch endeavours really were, or any thoughts bending that way; and afterwards as power came into their hands, ſubverting the antient Laws and Liberties of the Nation, and abrogating its eſtabliſhed Religion, is maintaining the peoples privileges, I grant 'em to be the only Men; and as for the ſtrict obſervance of the Laws relating to manners, under the <hi>Presbyterian</hi> Government more than Epiſcopal, it hapned from policy and State-conveniency, out of neceſſity, rather than from any good will they bore ei<g ref="char:EOLhyphen"/>ther to God or his Worſhip, as is evident from the bottom of their black deſigns: and had not they amuſed the people with the gilded nothing of Reformation, and charm'd their Eyes with theſe outward ſhows of Sanctity, while they were changing their Religion and antient Laws; ſuch publick Impoſtors, no queſtion, had been as publickly removed from the Stage of this World by the rage of the common people. Then againſt this objection, put into the other Scale the publick Hypocriſie, Perjury and Rebellion of thoſe times; and I believe no ſober Man will admire, either the goodneſs or felicity of the <hi>Presbyterian</hi> Government; and to give 'em their old diſtinction back again; I grant they were pretty godly ones, <hi>diſtributive &amp; diviſim,</hi> but deſperately wicked, <hi>collective &amp; conjunctim (i)</hi> take 'em by Retail, and they were ſo many ſeeming Saints, but in the Lump a pack of moſt abominable wicked Wretch<g ref="char:EOLhyphen"/>es. Beſides, Let 'em remember, after they had demoliſhed that almoſt impregnable Bul<g ref="char:EOLhyphen"/>wark of Chriſtianity, the Church of <hi>England,</hi> how ſuddenly the Enemy took in their leſſer works and ſmaller fortifications, what variety of Opinions then ſwarm'd in <hi>England?</hi> Was not God himſelf diſhonoured, his Church unfrequented? Did not Schiſm and Prophane<g ref="char:EOLhyphen"/>neſs every where abound, and Hereſies of all ſorts, even to the denying of the Divinity of Chriſt, the holy Scriptures and immortality of the Soul? and Religion it ſelf conſiſts in Tongue-Diſcourſe, demure Looks, and preciſeneſs of Habit?</p>
+            <p>Therefore if <hi>Popery</hi> is ſo odious to 'em as they pretend; if there is any truth, ſenſe and meaning in what they ſay; if they have any Bowels of Compaſſion for their poor Country; If <hi>Presbytery</hi> and <hi>Loyalty</hi> be not inconſiſtent, Let 'em for good manners ſake (ſince the dif<g ref="char:EOLhyphen"/>ference in Religion is ſo ſmall between us) be adviſed by their Governours, and accept of his Majeſties Choice, who no queſtion is as earneſt for his Salvation as the beſt <hi>Presbyterian</hi> of 'em all; laying aſide in this great time of danger animoſities and unſeaſonable diſputes, which only make the Gap wider, and hold us in play, whilſt the Enemy enters; and ſubmit themſelves like honeſt Men to the Doctrine of the Church of <hi>England,</hi> as it is expreſſed in the Thirty nine Articles; being grounded on a ſure Foundation, the Holy Scriptures, <hi>which are only able to make us wiſe unto Salvation,</hi> leaving all other our fears and jealouſies to the wiſdome of his Majeſty and his Council, whoſe Honour and Intereſt is unſeparably united with that of this Kingdom.</p>
+            <closer>
+               <date>
+                  <hi>Peruſed May</hi> 29. 1680.</date>
+            </closer>
+            <pb facs="tcp:45015:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
